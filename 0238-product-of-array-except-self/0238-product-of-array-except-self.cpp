@@ -1,22 +1,18 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int zero_num = 0;
-        long mul = 1;   // no zero
-        vector<int> res;
-        for (const int &num : nums) {
-            if (num == 0) zero_num++;
-            else mul *= num;
+        vector<int> ans;
+        int left = 1;
+        vector<int> right(nums);
+        for (int i = nums.size() - 2; i >= 0; i--) 
+            right[i] *= right[i+1];
+        
+        for (int i = 0; i < nums.size(); i++) {
+            if (i == nums.size() - 1) ans.push_back(left);
+            else ans.push_back(left * right[i+1]);
+            left *= nums[i];
         }
-        for (const int &num : nums) {
-            if (zero_num > 1) res.push_back(0);
-            else if (zero_num == 1) {
-                if (num == 0) res.push_back(mul);
-                else res.push_back(0);
-            } else {
-                res.push_back(mul/num);
-            }
-        }
-        return res;
+        return ans;
     }
 };
+
