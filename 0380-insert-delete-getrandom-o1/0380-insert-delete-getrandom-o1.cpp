@@ -1,33 +1,30 @@
 class RandomizedSet {
 private:
-    unordered_map<int, int> dict;   // val, idx
-    vector<int> v;
+	unordered_map<int, int> dict;
+	vector<int> v;
 public:
     RandomizedSet() {}
-    
+   
     bool insert(int val) {
-        if (dict.count(val)) {
-            return false;
-        }
-        dict[val] = v.size();
-        v.push_back(val);
+    	if (dict.count(val)) return false;
+            v.push_back(val);
+            dict[val] = v.size() - 1;
         return true;
     }
-    
+   
     bool remove(int val) {
-        if (!dict.count(val)) {
-            return false;
-        }
-        int i = dict[val];
-        dict.erase(val);
-        v[i] = v.back();
-        dict[v[i]] = i;
+    	if (!dict.count(val)) return false; 
+        
+        int change_val = v.back();
+        v[dict[val]] = change_val; 
+        dict[change_val] = dict[val];
         v.pop_back();
+        dict.erase(val);
         return true;
     }
-    
+   
     int getRandom() {
-        return v[rand() % v.size()];
+    	return v[random() % v.size()];
     }
 };
 
@@ -38,3 +35,5 @@ public:
  * bool param_2 = obj->remove(val);
  * int param_3 = obj->getRandom();
  */
+
+
