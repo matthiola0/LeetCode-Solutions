@@ -1,17 +1,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int ans = 0;
-        int left = 0;
-        vector<int> dict(128, -1);
-        for (int i = 0; i < s.size(); i++) {
-            char c = s[i];
-            if (dict[c] != -1 && dict[c] >= left) {
-                left = dict[c] + 1;
+        int ans = 0, l = 0;
+        vector<int> freq(128, 0);
+        for (int r = 0; r < s.size(); r++) {
+            freq[s[r]]++;
+            while (freq[s[r]] > 1) {
+                freq[s[l]]--;
+                l++;
             }
-            dict[c] = i;
-            
-            ans = max(ans, i - left + 1);
+            ans = max(ans, r - l + 1);
         }
         return ans;
     }
