@@ -1,23 +1,20 @@
 class LRUCache {
 private:
     struct Node {
+        Node *next, *prev;
         int key, val;
-        Node *prev, *next;
-        Node(int k, int v) : key(k), val(v), prev(nullptr), next(nullptr) {}
+        Node(int key, int val) : key(key), val(val), next(nullptr), prev(nullptr) {}
     };
 
-    void addToHead(Node* node) {
-        node->prev = head;
-        node->next = head->next;
-        head->next->prev = node;
-        head->next = node;
+    void removeNode(Node *node) {
+        node->next->prev = node->prev;
+        node->prev->next = node->next;
     }
-
-    void removeNode(Node* node) {
-        Node* prevNode = node->prev;
-        Node* nextNode = node->next;
-        prevNode->next = nextNode;
-        nextNode->prev = prevNode;
+    void addToHead(Node *node) {
+        head->next->prev = node;
+        node->next = head->next;
+        head->next = node;
+        node->prev = head;
     }
 
     unordered_map<int, Node*> dict;
@@ -35,31 +32,28 @@ public:
     
     int get(int key) {
         if (dict.count(key)) {
-            Node* node = dict[key];
-            removeNode(node);
-            addToHead(node);
-            return node->val;
+            removeNode(dict[key]);
+            addToHead(dict[key]);
+            return dict[key]->val;
         }
         return -1;
     }
     
     void put(int key, int value) {
         if (dict.count(key)) {
-            Node* node = dict[key];
-            removeNode(node);
-            addToHead(node);
-            node->val = value;
+            dict[key]->val = value;
+            removeNode(dict[key]);
+            addToHead(dict[key]);
         } else {
-            Node* node = new Node(key, value);
-            dict[key] = node;
-            if (capacity == cur_capacity) {
-                Node* old = tail->prev;
+            dict[key] = new Node(key, value);
+            if (cur_capacity == capacity) {
+                Node *old = tail->prev;
                 removeNode(old);
                 dict.erase(old->key);
                 delete old;
-                addToHead(node);
+                addToHead(dict[key]);
             } else {
-                addToHead(node);
+                addToHead(dict[key]);
                 cur_capacity++;
             }
         }
