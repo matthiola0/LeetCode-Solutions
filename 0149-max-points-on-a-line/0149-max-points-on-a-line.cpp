@@ -1,23 +1,25 @@
 class Solution {
 public:
     int maxPoints(vector<vector<int>>& points) {
-        int res = 1;
         int n = points.size();
+        if (n <= 2) return n;
+
+        int res = 1;
         for (int i = 0; i < n - 1; i++) {
-            unordered_map<double, int> mp;
+            int local_max = 0;
+            unordered_map<string, int> mp;
             for (int j = i + 1; j < n; j++) {
-                double slope = (double)(points[j][1] - points[i][1])/
-                               (double)(points[j][0] - points[i][0]);
-                if (points[j][0] - points[i][0] == 0)   //inf
-                    mp[abs(slope)]++;
-                else
-                    mp[slope]++;
+                int dy = points[j][1] - points[i][1],
+                    dx = points[j][0] - points[i][0];
+                int d = gcd(dx, dy);
+
+                if (dy < 0) {dy = -dy; dx = -dx;}
+                string key = to_string(dy/d) + '_' + to_string(dx/d);
+
+                mp[key]++;
+                local_max = max(local_max, mp[key]);
             }
-            int tmp = 0;
-            for (auto it: mp) {
-                tmp = max(tmp, it.second);
-            }
-            res = max(res, tmp + 1);
+            res = max(res, local_max + 1);
         }
         return res;
     }
