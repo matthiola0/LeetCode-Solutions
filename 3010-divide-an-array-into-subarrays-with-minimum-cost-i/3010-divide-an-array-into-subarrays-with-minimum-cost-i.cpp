@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int minimumCost(vector<int>& nums) {
+        int ans = nums[0];
+        int a = INT_MAX, b = INT_MAX;
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] < a) {
+                b = a;
+                a = nums[i];
+            } else if (nums[i] < b) {
+                b = nums[i];
+            }
+        }
+        return ans + a + b;
+    }
+};
