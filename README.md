@@ -15,6 +15,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
@@ -39,4 +40,8 @@ If the code looks like spaghetti, it's because I was hungry.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
