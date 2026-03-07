@@ -33,6 +33,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,12 @@ If the code looks like spaghetti, it's because I was hungry.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 <!---LeetCode Topics End-->
