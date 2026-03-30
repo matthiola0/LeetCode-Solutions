@@ -70,6 +70,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
