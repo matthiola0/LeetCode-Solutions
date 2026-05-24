@@ -17,6 +17,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -93,6 +94,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -167,6 +169,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
