@@ -7,13 +7,13 @@ public:
         vector<vector<int>> min_damage(m, vector<int>(n, INT_MAX));
         min_damage[0][0] = grid[0][0];
 
-        queue<array<int, 3>> q;
-        q.push({0, 0, grid[0][0]});
+        deque<array<int, 3>> q;
+        q.push_back({0, 0, grid[0][0]});
         
         int dir[4][2] = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
         while(!q.empty()) {
             auto [r, c, damage] = q.front();
-            q.pop();
+            q.pop_front();
 
             if (damage >= health) continue;
             if (r == m-1 && c == n-1) return true;
@@ -27,7 +27,12 @@ public:
                 int next_damage = damage + grid[nr][nc];
                 if (next_damage < min_damage[nr][nc]) {
                     min_damage[nr][nc] = next_damage;
-                    q.push({nr, nc, next_damage});
+
+                    if (grid[nr][nc] == 0) {
+                        q.push_front({nr, nc, next_damage});
+                    } else {
+                        q.push_back({nr, nc, next_damage});
+                    }
                 }
             }
         }
