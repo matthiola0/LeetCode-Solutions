@@ -83,6 +83,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [3546-equal-sum-grid-partition-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
