@@ -43,6 +43,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [3548-equal-sum-grid-partition-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3731-find-missing-elements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3731-find-missing-elements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
