@@ -51,6 +51,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1927-sum-game](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -83,6 +84,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -185,6 +187,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1927-sum-game](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -279,4 +282,8 @@ If the code looks like spaghetti, it's because I was hungry.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
