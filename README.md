@@ -90,6 +90,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [2573-find-the-string-with-lcp](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -137,6 +138,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
