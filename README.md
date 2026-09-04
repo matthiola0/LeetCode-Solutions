@@ -16,6 +16,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
@@ -53,6 +54,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1927-sum-game](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -257,6 +259,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
