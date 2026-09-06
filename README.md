@@ -83,6 +83,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -127,6 +128,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
