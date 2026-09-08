@@ -213,6 +213,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3870-count-commas-in-range](https://github.com/matthiola0/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
