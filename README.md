@@ -18,6 +18,7 @@ If the code looks like spaghetti, it's because I was hungry.
 | [0001-two-sum](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0835-image-overlap](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -65,6 +66,7 @@ If the code looks like spaghetti, it's because I was hungry.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/matthiola0/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/matthiola0/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
